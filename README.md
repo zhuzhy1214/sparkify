@@ -1,4 +1,4 @@
-# sparkify
+# Sparkify
 This is a sample project to identify potential churn users based on user activities, using pyspark.
 
 The goal is to train a binary classifier to identify users (in both free and paid tier) who might the Sparkify music streaming service, based on the patterns obtained from their past activity and interaction with the service. 
@@ -13,6 +13,14 @@ This notebook is arranged based on the following approach:
 5. Model tuning and conclusion: conduct parametric search to find best hyperparameters, and conduct model evaluation with final conclusion. 
 
 The project used a tiny subset (128MB) to conduct data analyaia and develop the model, and the full dataset available (12GB) to train and validate model.
+
+## Files:
+sparkify.ipynb
+output images
+-action_distribution.png
+-correlation.png
+-gender_effect.png
+
 
 Detailed writeup about the findings are available at: 
 https://medium.com/@zhenyuzhu/identify-potential-churn-users-for-sparkify-22c5c52974b1
