@@ -1,4 +1,4 @@
-# sparkify
+# Sparkify
 This is a sample project to identify potential churn users based on user activities, using pyspark.
 
 The goal is to train a binary classifier to identify users (in both free and paid tier) who might the Sparkify music streaming service, based on the patterns obtained from their past activity and interaction with the service. 
