@@ -14,14 +14,6 @@ This notebook is arranged based on the following approach:
 
 The project used a tiny subset (128MB) to conduct data analyaia and develop the model, and the full dataset available (12GB) to train and validate model.
 
-## Files:
-sparkify.ipynb
-output images
--action_distribution.png
--correlation.png
--gender_effect.png
-
-
 Detailed writeup about the findings are available at: 
 https://medium.com/@zhenyuzhu/identify-potential-churn-users-for-sparkify-22c5c52974b1
 
