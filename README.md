@@ -12,6 +12,15 @@ This notebook is arranged based on the following approach:
 4. Model training and evaluation: develop a few pilot models, define evaluation metrics for the model. Conduct initial evaluation for the model.
 5. Model tuning and conclusion: conduct parametric search to find best hyperparameters, and conduct model evaluation with final conclusion. 
 
+
+## Files:
+-sparkify.ipynb 
+-output images
+--action_distribution.png
+--correlation.png
+--gender_effect.png
+
+
 The project used a tiny subset (128MB) to conduct data analyaia and develop the model, and the full dataset available (12GB) to train and validate model.
 
 Detailed writeup about the findings are available at: 
